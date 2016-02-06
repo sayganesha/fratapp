@@ -1,0 +1,208 @@
+!SESSION 2016-01-24 15:14:13.871 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/ganesh/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/ganesh/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-01-24 15:14:15.126
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2016-01-29 20:01:02.532 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/ganesh/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/ganesh/Documents/self_proj/fratapp -product org.eclipse.epp.package.java.product -keyring /Users/ganesh/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-01-29 20:01:05.857
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2016-02-06 13:06:16.387 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/ganesh/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/ganesh/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-02-06 13:06:17.846
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-06 13:24:24.501
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-06 13:24:24.501
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-06 13:24:24.501
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-06 13:24:24.501
+!MESSAGE "Eclipse Git Team Provider - Task focused interface" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2016-02-06 13:24:24.501
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE Software being installed: Eclipse Git Team Provider 4.2.0.201601211800-r (org.eclipse.egit.feature.group 4.2.0.201601211800-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE Software currently installed: Eclipse Git Team Provider - Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.feature.feature.group 4.0.3.201509231615-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.501
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE Git Team Provider Core 4.2.0.201601211800-r (org.eclipse.egit.core 4.2.0.201601211800-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE Git Team Provider Core 4.0.0.201506090130-r (org.eclipse.egit.core 4.0.0.201506090130-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE Git Team Provider Core 4.0.3.201509231615-r (org.eclipse.egit.core 4.0.3.201509231615-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.501
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE From: Eclipse Git Team Provider 4.2.0.201601211800-r (org.eclipse.egit.feature.group 4.2.0.201601211800-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE To: org.eclipse.egit.core [4.2.0.201601211800-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.501
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE From: Eclipse Git Team Provider - Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.feature.feature.group 4.0.3.201509231615-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE To: org.eclipse.egit.gitflow.ui [4.0.3.201509231615-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.501
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE From: Git Team Provider - UI for Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.ui 4.0.3.201509231615-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.501
+!MESSAGE To: package org.eclipse.egit.core [4.0.3,4.1.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-06 13:24:24.611
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-06 13:24:24.611
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-06 13:24:24.611
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-06 13:24:24.611
+!MESSAGE "Eclipse Git Team Provider - Task focused interface" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2016-02-06 13:24:24.611
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.611
+!MESSAGE Software being installed: Eclipse Git Team Provider 4.2.0.201601211800-r (org.eclipse.egit.feature.group 4.2.0.201601211800-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.611
+!MESSAGE Software currently installed: Eclipse Git Team Provider - Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.feature.feature.group 4.0.3.201509231615-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.612
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.612
+!MESSAGE Git Team Provider Core 4.2.0.201601211800-r (org.eclipse.egit.core 4.2.0.201601211800-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.612
+!MESSAGE Git Team Provider Core 4.0.0.201506090130-r (org.eclipse.egit.core 4.0.0.201506090130-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.612
+!MESSAGE Git Team Provider Core 4.0.3.201509231615-r (org.eclipse.egit.core 4.0.3.201509231615-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.612
+!MESSAGE From: Eclipse Git Team Provider 4.2.0.201601211800-r (org.eclipse.egit.feature.group 4.2.0.201601211800-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.612
+!MESSAGE To: org.eclipse.egit.core [4.2.0.201601211800-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.612
+!MESSAGE From: Eclipse Git Team Provider - Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.feature.feature.group 4.0.3.201509231615-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.612
+!MESSAGE To: org.eclipse.egit.gitflow.ui [4.0.3.201509231615-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.612
+!MESSAGE From: Git Team Provider - UI for Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.ui 4.0.3.201509231615-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.612
+!MESSAGE To: package org.eclipse.egit.core [4.0.3,4.1.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-06 13:24:24.635
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-06 13:24:24.635
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-06 13:24:24.635
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-06 13:24:24.635
+!MESSAGE "Eclipse Git Team Provider - Task focused interface" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2016-02-06 13:24:24.635
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.635
+!MESSAGE Software being installed: Eclipse Git Team Provider 4.2.0.201601211800-r (org.eclipse.egit.feature.group 4.2.0.201601211800-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE Software currently installed: Eclipse Git Team Provider - Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.feature.feature.group 4.0.3.201509231615-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.636
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE Git Team Provider Core 4.2.0.201601211800-r (org.eclipse.egit.core 4.2.0.201601211800-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE Git Team Provider Core 4.0.0.201506090130-r (org.eclipse.egit.core 4.0.0.201506090130-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE Git Team Provider Core 4.0.3.201509231615-r (org.eclipse.egit.core 4.0.3.201509231615-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.636
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE From: Eclipse Git Team Provider 4.2.0.201601211800-r (org.eclipse.egit.feature.group 4.2.0.201601211800-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE To: org.eclipse.egit.core [4.2.0.201601211800-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.636
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE From: Eclipse Git Team Provider - Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.feature.feature.group 4.0.3.201509231615-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE To: org.eclipse.egit.gitflow.ui [4.0.3.201509231615-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.636
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE From: Git Team Provider - UI for Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.ui 4.0.3.201509231615-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.636
+!MESSAGE To: package org.eclipse.egit.core [4.0.3,4.1.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2016-02-06 13:24:24.646
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 1 10001 2016-02-06 13:24:24.646
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-06 13:24:24.646
+!MESSAGE "Eclipse Git Team Provider" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2016-02-06 13:24:24.647
+!MESSAGE "Eclipse Git Team Provider - Task focused interface" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2016-02-06 13:24:24.647
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE Software being installed: Eclipse Git Team Provider 4.2.0.201601211800-r (org.eclipse.egit.feature.group 4.2.0.201601211800-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE Software currently installed: Eclipse Git Team Provider - Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.feature.feature.group 4.0.3.201509231615-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.647
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE Git Team Provider Core 4.2.0.201601211800-r (org.eclipse.egit.core 4.2.0.201601211800-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE Git Team Provider Core 4.0.0.201506090130-r (org.eclipse.egit.core 4.0.0.201506090130-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE Git Team Provider Core 4.0.3.201509231615-r (org.eclipse.egit.core 4.0.3.201509231615-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.647
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE From: Eclipse Git Team Provider 4.2.0.201601211800-r (org.eclipse.egit.feature.group 4.2.0.201601211800-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE To: org.eclipse.egit.core [4.2.0.201601211800-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.647
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE From: Eclipse Git Team Provider - Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.feature.feature.group 4.0.3.201509231615-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE To: org.eclipse.egit.gitflow.ui [4.0.3.201509231615-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2016-02-06 13:24:24.647
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE From: Git Team Provider - UI for Gitflow support 4.0.3.201509231615-r (org.eclipse.egit.gitflow.ui 4.0.3.201509231615-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2016-02-06 13:24:24.647
+!MESSAGE To: package org.eclipse.egit.core [4.0.3,4.1.0)
+!SESSION 2016-02-06 13:25:32.450 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_71
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/ganesh/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/ganesh/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-02-06 13:25:34.451
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-02-06 13:25:41.364
+!MESSAGE fatal: Could not switch to '/Library/Developer/CommandLineTools/usr/etc/': No such file or directory
+
