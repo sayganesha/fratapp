@@ -41,7 +41,6 @@ public class CommunityMainApplication extends Application<CommunityMainConfigura
 				);
 		environment.jersey().register(resource);
 
-
 		// Totally test code to check connection to cassandra
 		Cluster cluster;
 		Session session;
